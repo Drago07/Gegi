@@ -1,0 +1,2 @@
+serviceClass: e.g.com.Testez.client.GreetingService
+path: 0F735188A900AE9E3C56C5B4469D982E.gwt.rpc
